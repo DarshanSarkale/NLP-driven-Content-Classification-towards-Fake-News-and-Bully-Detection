@@ -25,13 +25,13 @@ Supervised By: Prof. T. Akilan <br>
 Datasets are  publicly available. So you can find from below table and links.
 
 
-| Dataset Name        | Main Attributes       | Dimensionality |
-| ------------- |:-------------:| -----:|
-| WELFake[^1]     | Title, Text, Label | 72095 X 4 |
-| Fake News Kaggle[^2]     | Title, Author, Text, Label      |   20800 X 5 |
-| Fake or Real News[^3] | Title, Category of News	      |    6335 X 4 |
-| Korean Dataset[^4]	     | Title, Content, Label      |   Mission 1: 30139 X 4,Mission 2: 67970 X 4 |
-| CyberBullying Dataset[^5] | Tweet text, Cyberbullying Type	      |    47692 X 2 |
+| Dataset Name        | Main Attributes       | 
+| ------------- |:-------------:| 
+| WELFake[^1]     | Title, Text, Label | 
+| Fake News Kaggle[^2]     | Title, Author, Text, Label      
+| Fake or Real News[^3] | Title, Category of News	      |    
+| Korean Dataset[^4]	     | Title, Content, Label      |   
+| CyberBullying Dataset[^5] | Tweet text, Cyberbullying Type	      |    
 
 
 
