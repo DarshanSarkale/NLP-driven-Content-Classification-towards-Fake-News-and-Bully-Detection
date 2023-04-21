@@ -20,7 +20,7 @@ Datasets are  publicly available. So you can find from below table and links.
 
 
 Dataset,Main Attributes,Dimensionality <br>
-1)WELFake	,Title, Text, Label	72095 X 4. <br>
+1)WELFake[^1]	,Title, Text, Label	72095 X 4. <br>
 2)Fake News Kaggle,	Title, Author, Text, Label	,20800 X 5. <br>
 3)Fake or Real News,	Title, Category of news	,6335 X 4 . <br>
 4)Korean Dataset	,Title, Content, Label	,Mission 1: 30139 X 4,Mission 2: 67970 X 4. <br>
@@ -28,6 +28,10 @@ Dataset,Main Attributes,Dimensionality <br>
 
 Dataset Reference(Direct links or Reference paper): <br>
 1)WELFake: P. K. Verma, P. Agrawal, I. Amorim, and R. Prodan, “Welfake: Word
+embedding over linguistic features for fake news detection,” IEEE
+Transactions on Computational Social Systems, vol. 8, no. 4, pp. 881–
+893, 2021.
+[^1]:  P. K. Verma, P. Agrawal, I. Amorim, and R. Prodan, “Welfake: Word
 embedding over linguistic features for fake news detection,” IEEE
 Transactions on Computational Social Systems, vol. 8, no. 4, pp. 881–
 893, 2021.
