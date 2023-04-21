@@ -32,8 +32,8 @@ Dataset Reference(Direct links or Reference paper): <br>
 embedding over linguistic features for fake news detection,” IEEE
 Transactions on Computational Social Systems, vol. 8, no. 4, pp. 881–
 893, 2021.
-[^2] Fake News Kaggle:https://www.kaggle.com/c/fake-news/data <br>
-[^3] Fake or Real News:https://www.kaggle.com/datasets/jillanisofttech/fake-or-real-news <br>
-[^4] Korean Dataset:https://github.com/2alive3s/Fake news/tree/master/data <br>
-[^5] CyberBullying Dataset: J. Wang, K. Fu, and C.-T. Lu, “Sosnet: A graph convolutionalnetwork approach to fine-grained cyberbullying detection,” in 2020 IEEE International Conference on Big Data (Big Data). IEEE, 2020, pp. 1699–1708. <br>
+[^2]: Fake News Kaggle:https://www.kaggle.com/c/fake-news/data <br>
+[^3]: Fake or Real News:https://www.kaggle.com/datasets/jillanisofttech/fake-or-real-news <br>
+[^4]: Korean Dataset:https://github.com/2alive3s/Fake news/tree/master/data <br>
+[^5]: CyberBullying Dataset: J. Wang, K. Fu, and C.-T. Lu, “Sosnet: A graph convolutionalnetwork approach to fine-grained cyberbullying detection,” in 2020 IEEE International Conference on Big Data (Big Data). IEEE, 2020, pp. 1699–1708. <br>
 
