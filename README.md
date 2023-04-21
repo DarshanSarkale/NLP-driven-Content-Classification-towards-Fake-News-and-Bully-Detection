@@ -34,12 +34,7 @@ Datasets are  publicly available. So you can find from below table and links.
 | CyberBullying Dataset[^5] | Tweet text, Cyberbullying Type	      |    47692 X 2 |
 
 
-Dataset,Main Attributes,Dimensionality <br>
-1)WELFake[^1]	,Title, Text, Label	72095 X 4. <br>
-2)Fake News Kaggle[^2],	Title, Author, Text, Label	,20800 X 5. <br>
-3)Fake or Real News[^3],	Title, Category of news	,6335 X 4 . <br>
-4)Korean Dataset[^4]	,Title, Content, Label	,Mission 1: 30139 X 4,Mission 2: 67970 X 4. <br>
-5)CyberBullying Dataset[^5],	Tweet text, Cyberbullying type,	47692 X 2. <br>
+
 
 Dataset Reference(Direct links or Reference paper): <br>
 
