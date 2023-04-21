@@ -10,14 +10,16 @@ How to install and run project: Install all required libraries listed in .ipynb 
 How to use project: If you want to study several machine learning and/or deep learning models and how to use them to detect fake news or bullying type, you can refer this github repository.
 
 Credit: This is our final year project for Master of Computer Science at Lakehead University, Ontario, Canada. 
+
 Collaborators details: Darshan Sarkale, Vedant Gabani
+
 Supervised By: Prof. T. Akilan
 
 Details about dataset:
 Datasets are  publicly available. So you can find from below table and links.
 
 
-Dataset,Main Attributes,Dimensionality
+Dataset,Main Attributes,Dimensionality <br>
 1)WELFake	,Title, Text, Label	72095 X 4.
 2)Fake News Kaggle,	Title, Author, Text, Label	,20800 X 5.
 3)Fake or Real News,	Title, Category of news	,6335 X 4 .
