@@ -19,7 +19,7 @@ This is our final year project for Master of Computer Science at Lakehead Univer
 
 ## Collaborators details:<br>
 Darshan Sarkale, Vedant Gabani <br>
-Supervised By: Prof. T. Akilan <br>
+Under Guidence By: Prof. T. Akilan <br>
 
 ## Details about dataset:<br>
 Datasets are  publicly available. So you can find from below table and links.
